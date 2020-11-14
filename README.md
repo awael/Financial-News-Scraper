@@ -1,2 +1,2 @@
 # Finantial News Scraper
- Scraper for arabic finantial news since 2010
+ Scraper for arabic financial news since 2010
